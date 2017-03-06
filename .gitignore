@@ -1,0 +1,9 @@
+*.pkg.tar.xz
+*.pkg.tar.xz.sig
+*.install.pkg
+linux-*.tar.xz
+linux-*.tar.xz.sign
+patch-*.xz
+patch-*.sign
+pkg
+src
