@@ -1,5 +1,5 @@
 # $Id$
-# Maintainer: Hiroaki Yamamoto <andyrtr@archlinux.org>
+# Maintainer: Hiroaki Yamamoto <https://keybase.io/hyamamoto>
 # Maintainer: Andreas Radke <andyrtr@archlinux.org>
 
 
