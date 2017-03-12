@@ -11,7 +11,7 @@
 pkgbase=linux-lts44
 #pkgbase=linux-lts-custom
 _srcname=linux-4.4
-pkgver=4.4.52
+pkgver=4.4.53
 pkgrel=1
 arch=('i686' 'x86_64')
 url="https://www.kernel.org/"
@@ -31,7 +31,7 @@ source=(https://www.kernel.org/pub/linux/kernel/v4.x/${_srcname}.tar.{xz,sign}
 # https://www.kernel.org/pub/linux/kernel/v4.x/sha256sums.asc
 sha256sums=('401d7c8fef594999a460d10c72c5a94e9c2e1022f16795ec51746b0d165418b2'
             'SKIP'
-            '96dfdcb3144509275bba3b3f8ad925b18f31a22dcab5abfd5a4b816977a4e8c3'
+            '51e09e851c00f42e04f27a1848a06e93e9de9abd22da0408da4745b6d2edbbdb'
             'SKIP'
             'b11702727b1503e5a613946790978481d34d8ecc6870337fadd3ce1ef084a8e2'
             '68c7296ff2f5f55d69e83aa4d20f925df740b1eb1e6bdb0f13e8a170360ed09f'
