@@ -11,7 +11,7 @@
 pkgbase=linux-lts44
 #pkgbase=linux-lts-custom
 _srcname=linux-4.4
-pkgver=4.4.65
+pkgver=4.4.66
 pkgrel=1
 arch=('i686' 'x86_64')
 url="https://www.kernel.org/"
